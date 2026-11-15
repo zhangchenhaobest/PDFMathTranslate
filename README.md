@@ -1,3 +1,29 @@
+# PDFMathTranslate
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+AI-powered PDF translation that preserves layout, supporting Google, DeepL, Ollama and OpenAI, with CLI, GUI and MCP interfaces.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google、DeepL、Ollama、OpenAI 等服务，提供 CLI、GUI 与 MCP。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 	<a href="https://go.warp.dev/PDFMathTranslate" target="_blank">
 		<sup>Special thanks to:</sup>
